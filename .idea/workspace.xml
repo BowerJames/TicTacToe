@@ -25,7 +25,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/tf" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Testing" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,9 +70,72 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1585917310672">
+    <state x="275" y="27" key="#Notifications" timestamp="1585935591597">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1585917310672" />
+    <state x="275" y="27" key="#Notifications/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1585935591597" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1586030139270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030139270" />
+    <state width="1308" height="208" key="GridCell.Tab.0.bottom" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030445166" />
+    <state width="1308" height="208" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.0.center" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030445166" />
+    <state width="1308" height="208" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.0.left" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030445166" />
+    <state width="1308" height="208" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.0.right" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030445166" />
+    <state width="1308" height="208" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.1.bottom" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030442091" />
+    <state width="1308" height="208" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.1.center" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030442091" />
+    <state width="1308" height="208" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.1.left" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030442091" />
+    <state width="1308" height="208" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state width="1308" height="208" key="GridCell.Tab.1.right" timestamp="1586087573866">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030442091" />
+    <state width="1308" height="208" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586087573866" />
+    <state x="172" y="21" key="SettingsEditor" timestamp="1586030178317">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="172" y="21" key="SettingsEditor/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586030178317" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586029844619">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586029844619" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Env.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
