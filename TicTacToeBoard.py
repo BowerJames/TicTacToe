@@ -13,7 +13,7 @@ class TicTacToeBoard(object):
         self.Termination = False
 
     def render(self):
-        for i in [0,3,6]:
+        for i in [0, 3, 6]:
             print(self.Symbol_Dic[int(self.State[i])] + '|' + self.Symbol_Dic[int(self.State[i + 1])] + '|' + self.Symbol_Dic[int(self.State[i + 2])])
 
     def possible_actions(self):
@@ -35,3 +35,6 @@ class TicTacToeBoard(object):
             self.Termination = True
             return 0
         return 0
+
+    def possible_actions_from_state(self, state):
+        return np.where(state == 0)[0]
