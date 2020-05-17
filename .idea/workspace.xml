@@ -1,7 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7dd1333-bc7d-4933-ac9a-0cb108459228" name="Default Changelist" comment="" />
+    <list default="true" id="c7dd1333-bc7d-4933-ac9a-0cb108459228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4Connect/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4Connect/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllSelfNewBigBoy/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllSelfNewBigBoy/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllSelfNewBigBoyKnowledge/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllSelfNewBigBoyKnowledge/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiggerBoy/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiggerBoy/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect5/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect5/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect6/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect6/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect6/target_net.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect7/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect7/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect7/target_net.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect8/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect8/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect8/target_net.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect9/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect9/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connect9/target_net.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConnectAgent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConnectMemory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConnectTrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/agent_memory/agent_0/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/agent_memory/agent_0/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/agent_memory/agent_1/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/agent_memory/agent_1/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnsembleTestAgent/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstConnect/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstConnect/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_0/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_0/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_1/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_1/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_2/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_2/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_3/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/agent_memory/agent_3/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstEnsembleAgent/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastHope/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastHope/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBigBoy/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBigBoy/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewQLearner/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewQLearner/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Policy_Memory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QTableEnv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondConnect/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecondConnect/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelfNewBigBoy/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelfNewBigBoy/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelfTrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPolicyMemory/agent_0/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPolicyMemory/agent_0/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPolicyMemory/agent_1/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPolicyMemory/agent_1/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdConnect/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdConnect/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacMemory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackedQLearner/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackedQLearner/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrueSelfPlay/live_agent/memory.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrueSelfPlay/live_agent/qnet.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constant.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeBoard.py" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToeBoard.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +115,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a1xhPHv3mkKcPqrFbmqJv017ai" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/tf" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tensorboard.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager">
-    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Testing">
+    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" singleton="false">
       <module name="TicTacToe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +150,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Testing" />
-      </list>
-    </recent_temporary>
+    <configuration name="Training" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorboard" type="PythonConfigurationType" factoryName="Python">
+      <module name="TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Jimbowyer123\anaconda3\envs\tf\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Testing" />
+      <item itemvalue="Python.tensorboard" />
+      <item itemvalue="Python.Training" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,78 +211,116 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="27" key="#Notifications" timestamp="1585935591597">
+    <state x="275" y="27" key="#Notifications" timestamp="1587325390452">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="27" key="#Notifications/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1585935591597" />
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586257594356">
+    <state x="275" y="27" key="#Notifications/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1587325390452" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588237633784">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586257594356" />
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1586258887232">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586435592548" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1588237633784" />
+    <state x="428" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589372786179">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586258887232" />
-    <state width="1308" height="166" key="GridCell.Tab.0.bottom" timestamp="1586193604456">
+    <state x="428" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1587220559134" />
+    <state x="428" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1589372786179" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587325407043">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586188522416" />
-    <state width="1308" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586193604456" />
-    <state width="1308" height="166" key="GridCell.Tab.0.center" timestamp="1586193604455">
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1587325407043" />
+    <state x="572" y="122" key="#xdebugger.XInspectDialog" timestamp="1586280296088">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="166" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586188522416" />
-    <state width="1308" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586193604455" />
-    <state width="1308" height="166" key="GridCell.Tab.0.left" timestamp="1586193604455">
+    <state x="572" y="122" key="#xdebugger.XInspectDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586280296088" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1588237255578">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="166" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586188522415" />
-    <state width="1308" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586193604455" />
-    <state width="1308" height="166" key="GridCell.Tab.0.right" timestamp="1586193604455">
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586435572385" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588237255578" />
+    <state width="1345" height="200" key="GridCell.Tab.0.bottom" timestamp="1589738675837">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="166" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586188522416" />
-    <state width="1308" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586193604455" />
-    <state width="1308" height="208" key="GridCell.Tab.1.bottom" timestamp="1586193604386">
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1588369025118" />
+    <state width="1345" height="350" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659574" />
+    <state width="1345" height="200" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589738675837" />
+    <state width="1345" height="200" key="GridCell.Tab.0.center" timestamp="1589738675837">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="208" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586187314364" />
-    <state width="1308" height="208" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586193604386" />
-    <state width="1308" height="208" key="GridCell.Tab.1.center" timestamp="1586193604385">
+    <state width="1899" height="278" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1588369025118" />
+    <state width="1345" height="350" key="GridCell.Tab.0.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659574" />
+    <state width="1345" height="200" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589738675837" />
+    <state width="1345" height="200" key="GridCell.Tab.0.left" timestamp="1589738675837">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="208" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586187314363" />
-    <state width="1308" height="208" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586193604385" />
-    <state width="1308" height="208" key="GridCell.Tab.1.left" timestamp="1586193604385">
+    <state width="1899" height="278" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1588369025117" />
+    <state width="1345" height="350" key="GridCell.Tab.0.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659574" />
+    <state width="1345" height="200" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589738675837" />
+    <state width="1345" height="200" key="GridCell.Tab.0.right" timestamp="1589738675837">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="208" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586187314363" />
-    <state width="1308" height="208" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586193604385" />
-    <state width="1308" height="208" key="GridCell.Tab.1.right" timestamp="1586193604386">
+    <state width="1899" height="278" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1588369025118" />
+    <state width="1345" height="350" key="GridCell.Tab.0.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659574" />
+    <state width="1345" height="200" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589738675837" />
+    <state width="1345" height="217" key="GridCell.Tab.1.bottom" timestamp="1589738651023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1308" height="208" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586187314364" />
-    <state width="1308" height="208" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586193604386" />
-    <state x="172" y="21" key="SettingsEditor" timestamp="1586258888347">
+    <state width="1345" height="240" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1587763662729" />
+    <state width="1345" height="246" key="GridCell.Tab.1.bottom/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659444" />
+    <state width="1345" height="217" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589738651023" />
+    <state width="1345" height="217" key="GridCell.Tab.1.center" timestamp="1589738651023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="172" y="21" key="SettingsEditor/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586258888347" />
-    <state width="673" height="349" key="XDebugger.FullValuePopup" timestamp="1586181983574">
+    <state width="1345" height="240" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1587763662729" />
+    <state width="1345" height="246" key="GridCell.Tab.1.center/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659443" />
+    <state width="1345" height="217" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589738651023" />
+    <state width="1345" height="217" key="GridCell.Tab.1.left" timestamp="1589738651023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="673" height="349" key="XDebugger.FullValuePopup/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586181983574" />
-    <state width="673" height="349" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1586105987690" />
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586258942379">
+    <state width="1345" height="240" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1587763662728" />
+    <state width="1345" height="246" key="GridCell.Tab.1.left/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659443" />
+    <state width="1345" height="217" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589738651023" />
+    <state width="1345" height="217" key="GridCell.Tab.1.right" timestamp="1589738651023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586258942379" />
-    <state x="293" y="138" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586193690832" />
-    <state x="439" y="91" width="672" height="678" key="search.everywhere.popup" timestamp="1586186462031">
+    <state width="1345" height="240" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-304.1920.1050@-1920.-304.1920.1050" timestamp="1587763662729" />
+    <state width="1345" height="246" key="GridCell.Tab.1.right/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589307659444" />
+    <state width="1345" height="217" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589738651023" />
+    <state x="172" y="21" key="SettingsEditor" timestamp="1587325342845">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="439" y="91" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1586186462031" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586097579947" />
+    <state x="172" y="21" key="SettingsEditor/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1587325342845" />
+    <state width="673" height="349" key="XDebugger.FullValuePopup" timestamp="1589708297897">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="673" height="349" key="XDebugger.FullValuePopup/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589223103327" />
+    <state width="673" height="349" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1589708297897" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1587325160810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1587325160810" />
+    <state x="293" y="138" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1587293947231" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1589567258370">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="540" y="179" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-1920.-304.1920.1050@0.0.1366.738" timestamp="1589218090174" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1589567258370" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -156,22 +336,48 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Agent.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Env.py</url>
           <line>176</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/tf/Lib/site-packages/tensorflow_core/python/keras/utils/generic_utils.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Agent.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConnectAgent.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConnectAgent.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Training.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConnectAgent.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="updated_agent" />
-        <watch expression="updated_agent" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

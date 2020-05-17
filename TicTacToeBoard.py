@@ -36,5 +36,9 @@ class TicTacToeBoard(object):
             return 0
         return 0
 
-    def possible_actions_from_state(self, state):
-        return np.where(state == 0)[0]
+    @staticmethod
+    def possible_actions_from_state(state):
+        return np.where(state[0] == 0)[0]
+
+    def get_state(self):
+        return np.expand_dims(self.State, 0)

@@ -1,21 +1,34 @@
-import copy
-
-import Env
-import Agent
+import ConnectAgent
+import ConnectTrain
+import ConnectMemory
+import Networks
+import Connect4
 import tensorflow as tf
+import tensorflow.keras.optimizers as opt
 
-print(tf.__version__)
 
-player_1 = Agent.IntelligentAgent(10)
-player_2 = Agent.RandomAgent()
+net = Networks.gpu_net([128, 64, 32], 3, [32, 32], 3, 2, [128])
+target_net = Networks.gpu_net([128, 64, 32], 3, [32, 32], 3, 2, [128], zero=True)
+mem = ConnectMemory.ValueFunctionMemory2(max_memory=100)
+optimizer = opt.Adam()
 
-env = Env.Environment(player_1, player_2)
-print('For Epoch 0')
-print('Total Reward %d' % env.calc_tot_rewards(number_games=500))
+agent = ConnectAgent.ConnectAgentGPU(net, target_net, mem)
 
-for i in range(100):
-    env.train(num_updates=1, episodes_per_batch=500)
-    print('')
-    print('For Epoch %d' % i)
-    env.play_best_game()
-    print('Total Reward %d' % env.calc_tot_rewards(number_games=500))
+
+while not agent.memory_full():
+    sars1, sars2 = ConnectTrain.record_eps_greedy_self_play_game(agent, eps1=1, eps2=1)
+    agent.update_memory(sars1)
+    agent.update_memory(sars2)
+
+while True:
+    sars1, sars2 = ConnectTrain.record_eps_greedy_self_play_game(agent, eps1=1, eps2=1)
+    agent.update_memory(sars1)
+    agent.update_memory(sars2)
+
+    agent.train(32, optimizer, Connect4.possible_actions)
+print('done')
+
+
+
+
+
